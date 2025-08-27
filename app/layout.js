@@ -6,7 +6,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 import { dark } from "@clerk/themes";
 import { Toaster } from "sonner";
 
-const inter = Inter({ subsets: ["lation"] });
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "<Mirai-The Focus you deserve>",
