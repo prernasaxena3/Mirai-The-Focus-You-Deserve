@@ -8,6 +8,7 @@ const nextConfig = {
         pathname: "/api/portraits/**",
       },
     ],
+    unoptimized: true,
   },
 };
 
